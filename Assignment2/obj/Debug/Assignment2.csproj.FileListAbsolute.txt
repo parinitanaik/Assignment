@@ -1,0 +1,10 @@
+C:\Users\chaitali.s\Documents\Visual Studio 2008\Projects\Assignment2\Assignment2\bin\Assignment2.dll
+C:\Users\chaitali.s\Documents\Visual Studio 2008\Projects\Assignment2\Assignment2\bin\Assignment2.pdb
+C:\Users\chaitali.s\Documents\Visual Studio 2008\Projects\Assignment2\Assignment2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\chaitali.s\Documents\Visual Studio 2008\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.dll
+C:\Users\chaitali.s\Documents\Visual Studio 2008\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+C:\dummy_pocs\Assignment2\Assignment2\bin\Assignment2.dll
+C:\dummy_pocs\Assignment2\Assignment2\bin\Assignment2.pdb
+C:\dummy_pocs\Assignment2\Assignment2\obj\Debug\ResolveAssemblyReference.cache
+C:\dummy_pocs\Assignment2\Assignment2\obj\Debug\Assignment2.dll
+C:\dummy_pocs\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
