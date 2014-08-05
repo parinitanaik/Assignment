@@ -12,6 +12,12 @@
    UserName: <asp:TextBox ID="txtUserName" runat="server" Text="BhushanEdited"></asp:TextBox>
    Password: <asp:TextBox ID="txtPass" runat="server" TextMode="Password"></asp:TextBox>
     <asp:Button ID="btnLogin" runat="server" Text="Login" onclick="btnLogin_Click" />
+   UserName: <asp:TextBox ID="txtUserName" runat="server" Text="BhushanEdited"></asp:TextBox>
+   Password: <asp:TextBox ID="txtPass" runat="server" TextMode="Password"></asp:TextBox>
+    <asp:Button ID="btnLogin" runat="server" Text="Login" onclick="btnLogin_Click" />
+   UserName: <asp:TextBox ID="txtUserName" runat="server" Text="BhushanEdited"></asp:TextBox>
+   Password: <asp:TextBox ID="txtPass" runat="server" TextMode="Password"></asp:TextBox>
+    <asp:Button ID="btnLogin" runat="server" Text="Login" onclick="btnLogin_Click" />
     </div>
     </form>
 </body>
